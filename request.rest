@@ -1,0 +1,7 @@
+POST http://localhost:8001/planet/add
+Content-Type: application/json
+
+{
+    "name": "Pluto",
+    "orderFromSun": 9
+}
